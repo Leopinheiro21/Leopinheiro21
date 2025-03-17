@@ -1,31 +1,10 @@
-# HI THERE, I'M LEONARDO PINHEIRO DE LIMA
+I'M TELECOMMUNICATIONS TECHNICIAN & PYTHON ENTHUSIAST
 
-## ABOUT ME
-<div class="typewriter">
-  <p id="description">Telecommunications Technician | Python Enthusiast</p>
-</div>
+## Leonardo's GitHub Stats
+![Leonardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=leopinheiro21&show_icons=true&count_private=true&theme=radical&text_color=FF00FF&bg_color=1A1B27)
 
-<style>
-.typewriter p {
-  overflow: hidden; /* Hides text that exceeds */
-  white-space: nowrap; /* Keeps text in one line */
-  animation: typing 3s steps(40, end), blink-caret 0.75s step-end infinite;
-  border-right: 0.15em solid #FF00FF; /* Neon cursor */
-  width: 0; /* Starts invisible */
-  margin: 0 auto; /* Centers the text */
-  font-size: 1.2em; /* Adjusts text size */
-}
-
-@keyframes typing {
-  from { width: 0; }
-  to { width: 100%; }
-}
-
-@keyframes blink-caret {
-  from, to { border-color: transparent; }
-  50% { border-color: #FF00FF; }
-}
-</style>
+## Most Used Languages
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leopinheiro21&layout=compact&theme=radical&text_color=FF00FF&bg_color=1A1B27)
 
 ### Main Skills:
 [![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)](https://python.org)
