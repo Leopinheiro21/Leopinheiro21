@@ -4,13 +4,13 @@
 I'm a Telecommunications Technician with experience in Python programming.
 
 ### Main Skills:
-- Python
+- **Python**
 
 ### Tools:
-- IDLE
-- GitHub
-- Windows
-- Linux
+- **IDLE**
+- **GitHub**
+- **Windows**
+- **Linux**
 
 ## 📬 Connect with me:
 - Email: [pinheiro.leo.lima@gmail.com](mailto:pinheiro.leo.lima@gmail.com)
