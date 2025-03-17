@@ -1,4 +1,4 @@
-I'M TELECOMMUNICATIONS TECHNICIAN & PYTHON ENTHUSIAST
+Helo there, I'm Leonardo Pinheiro de Lima
 
 ## Leonardo's GitHub Stats
 ![Leonardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=leopinheiro21&show_icons=true&count_private=true&theme=radical&text_color=FF00FF&bg_color=1A1B27)
