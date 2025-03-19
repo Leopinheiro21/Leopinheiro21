@@ -1,4 +1,4 @@
-<marquee behavior="scroll" direction="left">
+<marquee behavior="scroll" direction="left" scrollamount="10">
   Hello there! I'm Leonardo Pinheiro. I’m a telecommunications technician and a programming enthusiast with a focus on Python.
 </marquee>
 
