@@ -1,4 +1,6 @@
-Helo there, I'm Leonardo Pinheiro de Lima
+<marquee behavior="scroll" direction="left">
+  Hello there! I'm Leonardo Pinheiro. I’m a telecommunications technician and a programming enthusiast with a focus on Python.
+</marquee>
 
 ## Leonardo's GitHub Stats
 ![Leonardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=leopinheiro21&show_icons=true&count_private=true&theme=radical&text_color=FF00FF&bg_color=1A1B27)
